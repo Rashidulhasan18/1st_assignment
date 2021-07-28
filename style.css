@@ -106,6 +106,16 @@ h3{
     padding: 1.5%;
     text-align: center;
 }
+.review-text{
+    text-align: center;
+}
+.review{
+    display: flex;
+    
+}
+.review-text-color{
+    color: grey;
+}
 .footer{
     width: 100%;
     background-color: orange;
