@@ -29,7 +29,7 @@ h3{
     padding-left: 5%;
 }
 .half-width img{
-    width: 90%;
+    width: 80%;
 }
 .half-width p{
     margin-bottom: 100px;
@@ -55,20 +55,27 @@ h3{
     margin-top: 100px;
 }
 .about-me p{
-    font-size: 25px;
+    font-size: 18px;
     color: grey;
 }
 .text-deco{
     padding-right: 15%;
 }
 #body-img{
-    width: 60%;
+    width: 100%;
+    padding-bottom: -5%;
 }
 .recipies{
     text-align: center;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 .recipies p{
     font-size: 25px;
+    color: grey;
+}
+.see-more{
+    text-decoration: none;
 }
 .middle-body{
     display: flex;
@@ -97,4 +104,15 @@ h3{
     margin: 3%;
     padding: 1.5%;
     text-align: center;
+}
+.footer{
+    width: 100%;
+    background-color: orange;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 20px;
+    color: white;
+}
+.footer-text-color{
+    color: black;
 }
