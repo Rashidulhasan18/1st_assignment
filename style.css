@@ -8,12 +8,15 @@ h1{
 h2{
     font-size: 40px;
 }
-p{
-    font-size: 25px;
+h3{
+    font-size: 30px;
 }
 .header{
     display: flex;
     margin-bottom: 100px;
+}
+.header p{
+    font-size: 25px;
 }
 .text-color{
     color: orange;
@@ -51,13 +54,37 @@ p{
 .about-me{
     margin-top: 100px;
 }
+.about-me p{
+    font-size: 25px;
+    color: grey;
+}
 .text-deco{
     padding-right: 15%;
 }
-.body-img{
-    width: 50px;
-    height: 550px;
+#body-img{
+    width: 60%;
 }
 .recipies{
     text-align: center;
+}
+.recipies p{
+    font-size: 25px;
+}
+.middle-body{
+    display: flex;
+    margin-bottom: 100px;
+}
+.tri-width{
+    width: 30%;
+    margin: 3%;
+    padding: 1.5%;
+    box-shadow: 1px 1px 15px rgb(201, 201, 201);
+    border-radius: 25px;
+}
+.tri-width p{
+    font-size: 18px;
+    color: grey;
+}
+.tri-img{
+    width: 100%;
 }
