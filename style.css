@@ -80,7 +80,6 @@ h3{
 }
 .middle-body{
     display: flex;
-    margin-bottom: 50px;
 }
 .tri-width{
     width: 30%;
@@ -98,7 +97,7 @@ h3{
 }
 .lower-body{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .lower-tri-width{
     width: 30%;
@@ -111,10 +110,14 @@ h3{
 }
 .review{
     display: flex;
+    margin-bottom: 50px;
     
 }
 .review-text-color{
-    color: grey;
+    color: white;
+    background-color: orange;
+    padding: 15px;
+    border-radius: 35px;
 }
 .footer{
     width: 100%;
