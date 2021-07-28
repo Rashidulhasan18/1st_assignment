@@ -88,3 +88,13 @@ h3{
 .tri-img{
     width: 100%;
 }
+.lower-body{
+    display: flex;
+    margin-bottom: 100px;
+}
+.lower-tri-width{
+    width: 30%;
+    margin: 3%;
+    padding: 1.5%;
+    text-align: center;
+}
